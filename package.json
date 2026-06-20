@@ -1,0 +1,33 @@
+{
+  "name": "itqan",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Itqān — The Hafiz OS. An open-source, AI-assisted Quran memorization companion.",
+  "license": "MIT",
+  "packageManager": "pnpm@9.15.9",
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
+  },
+  "scripts": {
+    "start": "bash start.command",
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "lint": "turbo run lint",
+    "typecheck": "turbo run typecheck",
+    "test": "turbo run test",
+    "clean": "turbo run clean && rm -rf node_modules",
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,md}\"",
+    "format:check": "prettier --check \"**/*.{ts,tsx,js,jsx,json,md}\"",
+    "db:start": "supabase start",
+    "db:reset": "supabase db reset",
+    "db:diff": "supabase db diff",
+    "db:lint": "supabase db lint"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "supabase": "^2.106.0",
+    "turbo": "^2.3.3",
+    "typescript": "^5.6.3"
+  }
+}

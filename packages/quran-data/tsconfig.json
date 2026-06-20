@@ -1,0 +1,10 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "rootDir": ".",
+    "resolveJsonModule": true
+  },
+  "include": ["src/**/*.ts", "data/meta.json"],
+  "exclude": ["node_modules", "dist", "data/ayahs.json", "data/translations"]
+}

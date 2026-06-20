@@ -1,0 +1,8 @@
+{
+  "version": "2026-06-13",
+  "generatedAt": "2026-06-13T21:38:33.695Z",
+  "source": "AlQuran Cloud API (api.alquran.cloud)",
+  "textEdition": "quran-uthmani",
+  "editions": [{ "id": "en.sahih", "language": "en", "name": "Saheeh International" }],
+  "counts": { "surahs": 114, "ayahs": 6236, "pages": 604, "juz": 30 }
+}

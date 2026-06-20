@@ -1,0 +1,23 @@
+{
+  "name": "@itqan/logging",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Error logging & crash reporting abstraction. Provider-agnostic (Sentry adapter by default).",
+  "type": "module",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "lint": "eslint src --ext .ts",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "test": "echo \"@itqan/logging: no tests yet\"",
+    "clean": "rm -rf dist *.tsbuildinfo"
+  },
+  "devDependencies": {
+    "@itqan/config": "workspace:*",
+    "eslint": "^8.57.1",
+    "typescript": "^5.6.3"
+  }
+}

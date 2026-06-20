@@ -1,0 +1,16 @@
+node_modules
+dist
+build
+.next
+.expo
+.turbo
+coverage
+pnpm-lock.yaml
+v1
+*.md
+
+# Vendored third-party engine (sql.js WebAssembly SQLite) — do not reformat
+apps/mobile/public/sql-wasm.js
+
+# Expo-generated, should not be hand-formatted
+apps/mobile/expo-env.d.ts

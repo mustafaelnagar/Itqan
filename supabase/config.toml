@@ -1,0 +1,40 @@
+# Supabase local development config (FND-005).
+# Run `npx supabase start` to bring up the local stack, then `npx supabase db reset`
+# to apply migrations + seed.
+
+project_id = "itqan"
+
+[api]
+enabled = true
+port = 54321
+schemas = ["public", "storage"]
+extra_search_path = ["public", "extensions"]
+max_rows = 1000
+
+[db]
+port = 54322
+shadow_port = 54320
+major_version = 15
+
+[studio]
+enabled = true
+port = 54323
+
+[storage]
+enabled = true
+file_size_limit = "50MiB"
+
+[auth]
+enabled = true
+site_url = "itqan://"
+additional_redirect_urls = ["itqan-dev://", "itqan-staging://"]
+jwt_expiry = 3600
+enable_refresh_token_rotation = true
+enable_signup = true
+
+[auth.email]
+enable_signup = true
+enable_confirmations = false
+
+[analytics]
+enabled = false

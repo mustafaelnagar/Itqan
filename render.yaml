@@ -1,0 +1,36 @@
+# Render blueprint — deploys the Itqān web app as a static SPA.
+# Docs: https://render.com/docs/blueprint-spec
+#
+# The web build is exported by Expo to `apps/mobile/dist` (HTML/JS/WASM, no
+# server). All runtime assets (fonts, Quran data, the sql.js engine) are
+# committed, so a clean checkout builds with no extra fetch step.
+services:
+  - type: web
+    name: itqan-web
+    runtime: static
+    # Corepack gives us the pnpm version pinned in package.json's `packageManager`.
+    buildCommand: corepack enable && pnpm install --frozen-lockfile && pnpm --filter @itqan/mobile exec expo export --platform web
+    staticPublishPath: apps/mobile/dist
+    pullRequestPreviewsEnabled: true
+    # Expo Router does client-side routing — every path must serve the SPA shell,
+    # or deep links (e.g. /surah/2) 404 on refresh.
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    headers:
+      # sql.js streams a .wasm engine; serve it with the correct type.
+      - path: /*.wasm
+        name: Content-Type
+        value: application/wasm
+    envVars:
+      - key: APP_ENV
+        value: production
+      # Optional — set these only if you wire up sync/auth or self-hosted audio.
+      # The app runs fully offline without them.
+      - key: EXPO_PUBLIC_SUPABASE_URL
+        sync: false
+      - key: EXPO_PUBLIC_SUPABASE_ANON_KEY
+        sync: false
+      - key: EXPO_PUBLIC_AUDIO_BASE_URL
+        sync: false

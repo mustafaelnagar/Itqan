@@ -1,0 +1,3660 @@
+[
+  { "number": 1, "firstAyahKey": "1:1", "lastAyahKey": "1:7", "juzNumber": 1, "lineCount": 15 },
+  { "number": 2, "firstAyahKey": "2:1", "lastAyahKey": "2:5", "juzNumber": 1, "lineCount": 15 },
+  { "number": 3, "firstAyahKey": "2:6", "lastAyahKey": "2:16", "juzNumber": 1, "lineCount": 15 },
+  { "number": 4, "firstAyahKey": "2:17", "lastAyahKey": "2:24", "juzNumber": 1, "lineCount": 15 },
+  { "number": 5, "firstAyahKey": "2:25", "lastAyahKey": "2:29", "juzNumber": 1, "lineCount": 15 },
+  { "number": 6, "firstAyahKey": "2:30", "lastAyahKey": "2:37", "juzNumber": 1, "lineCount": 15 },
+  { "number": 7, "firstAyahKey": "2:38", "lastAyahKey": "2:48", "juzNumber": 1, "lineCount": 15 },
+  { "number": 8, "firstAyahKey": "2:49", "lastAyahKey": "2:57", "juzNumber": 1, "lineCount": 15 },
+  { "number": 9, "firstAyahKey": "2:58", "lastAyahKey": "2:61", "juzNumber": 1, "lineCount": 15 },
+  { "number": 10, "firstAyahKey": "2:62", "lastAyahKey": "2:69", "juzNumber": 1, "lineCount": 15 },
+  { "number": 11, "firstAyahKey": "2:70", "lastAyahKey": "2:76", "juzNumber": 1, "lineCount": 15 },
+  { "number": 12, "firstAyahKey": "2:77", "lastAyahKey": "2:83", "juzNumber": 1, "lineCount": 15 },
+  { "number": 13, "firstAyahKey": "2:84", "lastAyahKey": "2:88", "juzNumber": 1, "lineCount": 15 },
+  { "number": 14, "firstAyahKey": "2:89", "lastAyahKey": "2:93", "juzNumber": 1, "lineCount": 15 },
+  { "number": 15, "firstAyahKey": "2:94", "lastAyahKey": "2:101", "juzNumber": 1, "lineCount": 15 },
+  {
+    "number": 16,
+    "firstAyahKey": "2:102",
+    "lastAyahKey": "2:105",
+    "juzNumber": 1,
+    "lineCount": 15
+  },
+  {
+    "number": 17,
+    "firstAyahKey": "2:106",
+    "lastAyahKey": "2:112",
+    "juzNumber": 1,
+    "lineCount": 15
+  },
+  {
+    "number": 18,
+    "firstAyahKey": "2:113",
+    "lastAyahKey": "2:119",
+    "juzNumber": 1,
+    "lineCount": 15
+  },
+  {
+    "number": 19,
+    "firstAyahKey": "2:120",
+    "lastAyahKey": "2:126",
+    "juzNumber": 1,
+    "lineCount": 15
+  },
+  {
+    "number": 20,
+    "firstAyahKey": "2:127",
+    "lastAyahKey": "2:134",
+    "juzNumber": 1,
+    "lineCount": 15
+  },
+  {
+    "number": 21,
+    "firstAyahKey": "2:135",
+    "lastAyahKey": "2:141",
+    "juzNumber": 1,
+    "lineCount": 15
+  },
+  {
+    "number": 22,
+    "firstAyahKey": "2:142",
+    "lastAyahKey": "2:145",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 23,
+    "firstAyahKey": "2:146",
+    "lastAyahKey": "2:153",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 24,
+    "firstAyahKey": "2:154",
+    "lastAyahKey": "2:163",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 25,
+    "firstAyahKey": "2:164",
+    "lastAyahKey": "2:169",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 26,
+    "firstAyahKey": "2:170",
+    "lastAyahKey": "2:176",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 27,
+    "firstAyahKey": "2:177",
+    "lastAyahKey": "2:181",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 28,
+    "firstAyahKey": "2:182",
+    "lastAyahKey": "2:186",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 29,
+    "firstAyahKey": "2:187",
+    "lastAyahKey": "2:190",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 30,
+    "firstAyahKey": "2:191",
+    "lastAyahKey": "2:196",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 31,
+    "firstAyahKey": "2:197",
+    "lastAyahKey": "2:202",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 32,
+    "firstAyahKey": "2:203",
+    "lastAyahKey": "2:210",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 33,
+    "firstAyahKey": "2:211",
+    "lastAyahKey": "2:215",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 34,
+    "firstAyahKey": "2:216",
+    "lastAyahKey": "2:219",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 35,
+    "firstAyahKey": "2:220",
+    "lastAyahKey": "2:224",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 36,
+    "firstAyahKey": "2:225",
+    "lastAyahKey": "2:230",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 37,
+    "firstAyahKey": "2:231",
+    "lastAyahKey": "2:233",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 38,
+    "firstAyahKey": "2:234",
+    "lastAyahKey": "2:237",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 39,
+    "firstAyahKey": "2:238",
+    "lastAyahKey": "2:245",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 40,
+    "firstAyahKey": "2:246",
+    "lastAyahKey": "2:248",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 41,
+    "firstAyahKey": "2:249",
+    "lastAyahKey": "2:252",
+    "juzNumber": 2,
+    "lineCount": 15
+  },
+  {
+    "number": 42,
+    "firstAyahKey": "2:253",
+    "lastAyahKey": "2:256",
+    "juzNumber": 3,
+    "lineCount": 15
+  },
+  {
+    "number": 43,
+    "firstAyahKey": "2:257",
+    "lastAyahKey": "2:259",
+    "juzNumber": 3,
+    "lineCount": 15
+  },
+  {
+    "number": 44,
+    "firstAyahKey": "2:260",
+    "lastAyahKey": "2:264",
+    "juzNumber": 3,
+    "lineCount": 15
+  },
+  {
+    "number": 45,
+    "firstAyahKey": "2:265",
+    "lastAyahKey": "2:269",
+    "juzNumber": 3,
+    "lineCount": 15
+  },
+  {
+    "number": 46,
+    "firstAyahKey": "2:270",
+    "lastAyahKey": "2:274",
+    "juzNumber": 3,
+    "lineCount": 15
+  },
+  {
+    "number": 47,
+    "firstAyahKey": "2:275",
+    "lastAyahKey": "2:281",
+    "juzNumber": 3,
+    "lineCount": 15
+  },
+  {
+    "number": 48,
+    "firstAyahKey": "2:282",
+    "lastAyahKey": "2:282",
+    "juzNumber": 3,
+    "lineCount": 15
+  },
+  {
+    "number": 49,
+    "firstAyahKey": "2:283",
+    "lastAyahKey": "2:286",
+    "juzNumber": 3,
+    "lineCount": 15
+  },
+  { "number": 50, "firstAyahKey": "3:1", "lastAyahKey": "3:9", "juzNumber": 3, "lineCount": 15 },
+  { "number": 51, "firstAyahKey": "3:10", "lastAyahKey": "3:15", "juzNumber": 3, "lineCount": 15 },
+  { "number": 52, "firstAyahKey": "3:16", "lastAyahKey": "3:22", "juzNumber": 3, "lineCount": 15 },
+  { "number": 53, "firstAyahKey": "3:23", "lastAyahKey": "3:29", "juzNumber": 3, "lineCount": 15 },
+  { "number": 54, "firstAyahKey": "3:30", "lastAyahKey": "3:37", "juzNumber": 3, "lineCount": 15 },
+  { "number": 55, "firstAyahKey": "3:38", "lastAyahKey": "3:45", "juzNumber": 3, "lineCount": 15 },
+  { "number": 56, "firstAyahKey": "3:46", "lastAyahKey": "3:52", "juzNumber": 3, "lineCount": 15 },
+  { "number": 57, "firstAyahKey": "3:53", "lastAyahKey": "3:61", "juzNumber": 3, "lineCount": 15 },
+  { "number": 58, "firstAyahKey": "3:62", "lastAyahKey": "3:70", "juzNumber": 3, "lineCount": 15 },
+  { "number": 59, "firstAyahKey": "3:71", "lastAyahKey": "3:77", "juzNumber": 3, "lineCount": 15 },
+  { "number": 60, "firstAyahKey": "3:78", "lastAyahKey": "3:83", "juzNumber": 3, "lineCount": 15 },
+  { "number": 61, "firstAyahKey": "3:84", "lastAyahKey": "3:91", "juzNumber": 3, "lineCount": 15 },
+  { "number": 62, "firstAyahKey": "3:92", "lastAyahKey": "3:100", "juzNumber": 3, "lineCount": 15 },
+  {
+    "number": 63,
+    "firstAyahKey": "3:101",
+    "lastAyahKey": "3:108",
+    "juzNumber": 4,
+    "lineCount": 15
+  },
+  {
+    "number": 64,
+    "firstAyahKey": "3:109",
+    "lastAyahKey": "3:115",
+    "juzNumber": 4,
+    "lineCount": 15
+  },
+  {
+    "number": 65,
+    "firstAyahKey": "3:116",
+    "lastAyahKey": "3:121",
+    "juzNumber": 4,
+    "lineCount": 15
+  },
+  {
+    "number": 66,
+    "firstAyahKey": "3:122",
+    "lastAyahKey": "3:132",
+    "juzNumber": 4,
+    "lineCount": 15
+  },
+  {
+    "number": 67,
+    "firstAyahKey": "3:133",
+    "lastAyahKey": "3:140",
+    "juzNumber": 4,
+    "lineCount": 15
+  },
+  {
+    "number": 68,
+    "firstAyahKey": "3:141",
+    "lastAyahKey": "3:148",
+    "juzNumber": 4,
+    "lineCount": 15
+  },
+  {
+    "number": 69,
+    "firstAyahKey": "3:149",
+    "lastAyahKey": "3:153",
+    "juzNumber": 4,
+    "lineCount": 15
+  },
+  {
+    "number": 70,
+    "firstAyahKey": "3:154",
+    "lastAyahKey": "3:157",
+    "juzNumber": 4,
+    "lineCount": 15
+  },
+  {
+    "number": 71,
+    "firstAyahKey": "3:158",
+    "lastAyahKey": "3:165",
+    "juzNumber": 4,
+    "lineCount": 15
+  },
+  {
+    "number": 72,
+    "firstAyahKey": "3:166",
+    "lastAyahKey": "3:173",
+    "juzNumber": 4,
+    "lineCount": 15
+  },
+  {
+    "number": 73,
+    "firstAyahKey": "3:174",
+    "lastAyahKey": "3:180",
+    "juzNumber": 4,
+    "lineCount": 15
+  },
+  {
+    "number": 74,
+    "firstAyahKey": "3:181",
+    "lastAyahKey": "3:186",
+    "juzNumber": 4,
+    "lineCount": 15
+  },
+  {
+    "number": 75,
+    "firstAyahKey": "3:187",
+    "lastAyahKey": "3:194",
+    "juzNumber": 4,
+    "lineCount": 15
+  },
+  {
+    "number": 76,
+    "firstAyahKey": "3:195",
+    "lastAyahKey": "3:200",
+    "juzNumber": 4,
+    "lineCount": 15
+  },
+  { "number": 77, "firstAyahKey": "4:1", "lastAyahKey": "4:6", "juzNumber": 4, "lineCount": 15 },
+  { "number": 78, "firstAyahKey": "4:7", "lastAyahKey": "4:11", "juzNumber": 4, "lineCount": 15 },
+  { "number": 79, "firstAyahKey": "4:12", "lastAyahKey": "4:14", "juzNumber": 4, "lineCount": 15 },
+  { "number": 80, "firstAyahKey": "4:15", "lastAyahKey": "4:19", "juzNumber": 4, "lineCount": 15 },
+  { "number": 81, "firstAyahKey": "4:20", "lastAyahKey": "4:23", "juzNumber": 4, "lineCount": 15 },
+  { "number": 82, "firstAyahKey": "4:24", "lastAyahKey": "4:26", "juzNumber": 5, "lineCount": 15 },
+  { "number": 83, "firstAyahKey": "4:27", "lastAyahKey": "4:33", "juzNumber": 5, "lineCount": 15 },
+  { "number": 84, "firstAyahKey": "4:34", "lastAyahKey": "4:37", "juzNumber": 5, "lineCount": 15 },
+  { "number": 85, "firstAyahKey": "4:38", "lastAyahKey": "4:44", "juzNumber": 5, "lineCount": 15 },
+  { "number": 86, "firstAyahKey": "4:45", "lastAyahKey": "4:51", "juzNumber": 5, "lineCount": 15 },
+  { "number": 87, "firstAyahKey": "4:52", "lastAyahKey": "4:59", "juzNumber": 5, "lineCount": 15 },
+  { "number": 88, "firstAyahKey": "4:60", "lastAyahKey": "4:65", "juzNumber": 5, "lineCount": 15 },
+  { "number": 89, "firstAyahKey": "4:66", "lastAyahKey": "4:74", "juzNumber": 5, "lineCount": 15 },
+  { "number": 90, "firstAyahKey": "4:75", "lastAyahKey": "4:79", "juzNumber": 5, "lineCount": 15 },
+  { "number": 91, "firstAyahKey": "4:80", "lastAyahKey": "4:86", "juzNumber": 5, "lineCount": 15 },
+  { "number": 92, "firstAyahKey": "4:87", "lastAyahKey": "4:91", "juzNumber": 5, "lineCount": 15 },
+  { "number": 93, "firstAyahKey": "4:92", "lastAyahKey": "4:94", "juzNumber": 5, "lineCount": 15 },
+  { "number": 94, "firstAyahKey": "4:95", "lastAyahKey": "4:101", "juzNumber": 5, "lineCount": 15 },
+  {
+    "number": 95,
+    "firstAyahKey": "4:102",
+    "lastAyahKey": "4:105",
+    "juzNumber": 5,
+    "lineCount": 15
+  },
+  {
+    "number": 96,
+    "firstAyahKey": "4:106",
+    "lastAyahKey": "4:113",
+    "juzNumber": 5,
+    "lineCount": 15
+  },
+  {
+    "number": 97,
+    "firstAyahKey": "4:114",
+    "lastAyahKey": "4:121",
+    "juzNumber": 5,
+    "lineCount": 15
+  },
+  {
+    "number": 98,
+    "firstAyahKey": "4:122",
+    "lastAyahKey": "4:127",
+    "juzNumber": 5,
+    "lineCount": 15
+  },
+  {
+    "number": 99,
+    "firstAyahKey": "4:128",
+    "lastAyahKey": "4:134",
+    "juzNumber": 5,
+    "lineCount": 15
+  },
+  {
+    "number": 100,
+    "firstAyahKey": "4:135",
+    "lastAyahKey": "4:140",
+    "juzNumber": 5,
+    "lineCount": 15
+  },
+  {
+    "number": 101,
+    "firstAyahKey": "4:141",
+    "lastAyahKey": "4:147",
+    "juzNumber": 5,
+    "lineCount": 15
+  },
+  {
+    "number": 102,
+    "firstAyahKey": "4:148",
+    "lastAyahKey": "4:154",
+    "juzNumber": 6,
+    "lineCount": 15
+  },
+  {
+    "number": 103,
+    "firstAyahKey": "4:155",
+    "lastAyahKey": "4:162",
+    "juzNumber": 6,
+    "lineCount": 15
+  },
+  {
+    "number": 104,
+    "firstAyahKey": "4:163",
+    "lastAyahKey": "4:170",
+    "juzNumber": 6,
+    "lineCount": 15
+  },
+  {
+    "number": 105,
+    "firstAyahKey": "4:171",
+    "lastAyahKey": "4:175",
+    "juzNumber": 6,
+    "lineCount": 15
+  },
+  { "number": 106, "firstAyahKey": "4:176", "lastAyahKey": "5:2", "juzNumber": 6, "lineCount": 15 },
+  { "number": 107, "firstAyahKey": "5:3", "lastAyahKey": "5:5", "juzNumber": 6, "lineCount": 15 },
+  { "number": 108, "firstAyahKey": "5:6", "lastAyahKey": "5:9", "juzNumber": 6, "lineCount": 15 },
+  { "number": 109, "firstAyahKey": "5:10", "lastAyahKey": "5:13", "juzNumber": 6, "lineCount": 15 },
+  { "number": 110, "firstAyahKey": "5:14", "lastAyahKey": "5:17", "juzNumber": 6, "lineCount": 15 },
+  { "number": 111, "firstAyahKey": "5:18", "lastAyahKey": "5:23", "juzNumber": 6, "lineCount": 15 },
+  { "number": 112, "firstAyahKey": "5:24", "lastAyahKey": "5:31", "juzNumber": 6, "lineCount": 15 },
+  { "number": 113, "firstAyahKey": "5:32", "lastAyahKey": "5:36", "juzNumber": 6, "lineCount": 15 },
+  { "number": 114, "firstAyahKey": "5:37", "lastAyahKey": "5:41", "juzNumber": 6, "lineCount": 15 },
+  { "number": 115, "firstAyahKey": "5:42", "lastAyahKey": "5:45", "juzNumber": 6, "lineCount": 15 },
+  { "number": 116, "firstAyahKey": "5:46", "lastAyahKey": "5:50", "juzNumber": 6, "lineCount": 15 },
+  { "number": 117, "firstAyahKey": "5:51", "lastAyahKey": "5:57", "juzNumber": 6, "lineCount": 15 },
+  { "number": 118, "firstAyahKey": "5:58", "lastAyahKey": "5:64", "juzNumber": 6, "lineCount": 15 },
+  { "number": 119, "firstAyahKey": "5:65", "lastAyahKey": "5:70", "juzNumber": 6, "lineCount": 15 },
+  { "number": 120, "firstAyahKey": "5:71", "lastAyahKey": "5:76", "juzNumber": 6, "lineCount": 15 },
+  { "number": 121, "firstAyahKey": "5:77", "lastAyahKey": "5:82", "juzNumber": 6, "lineCount": 15 },
+  { "number": 122, "firstAyahKey": "5:83", "lastAyahKey": "5:89", "juzNumber": 7, "lineCount": 15 },
+  { "number": 123, "firstAyahKey": "5:90", "lastAyahKey": "5:95", "juzNumber": 7, "lineCount": 15 },
+  {
+    "number": 124,
+    "firstAyahKey": "5:96",
+    "lastAyahKey": "5:103",
+    "juzNumber": 7,
+    "lineCount": 15
+  },
+  {
+    "number": 125,
+    "firstAyahKey": "5:104",
+    "lastAyahKey": "5:108",
+    "juzNumber": 7,
+    "lineCount": 15
+  },
+  {
+    "number": 126,
+    "firstAyahKey": "5:109",
+    "lastAyahKey": "5:113",
+    "juzNumber": 7,
+    "lineCount": 15
+  },
+  {
+    "number": 127,
+    "firstAyahKey": "5:114",
+    "lastAyahKey": "5:120",
+    "juzNumber": 7,
+    "lineCount": 15
+  },
+  { "number": 128, "firstAyahKey": "6:1", "lastAyahKey": "6:8", "juzNumber": 7, "lineCount": 15 },
+  { "number": 129, "firstAyahKey": "6:9", "lastAyahKey": "6:18", "juzNumber": 7, "lineCount": 15 },
+  { "number": 130, "firstAyahKey": "6:19", "lastAyahKey": "6:27", "juzNumber": 7, "lineCount": 15 },
+  { "number": 131, "firstAyahKey": "6:28", "lastAyahKey": "6:35", "juzNumber": 7, "lineCount": 15 },
+  { "number": 132, "firstAyahKey": "6:36", "lastAyahKey": "6:44", "juzNumber": 7, "lineCount": 15 },
+  { "number": 133, "firstAyahKey": "6:45", "lastAyahKey": "6:52", "juzNumber": 7, "lineCount": 15 },
+  { "number": 134, "firstAyahKey": "6:53", "lastAyahKey": "6:59", "juzNumber": 7, "lineCount": 15 },
+  { "number": 135, "firstAyahKey": "6:60", "lastAyahKey": "6:68", "juzNumber": 7, "lineCount": 15 },
+  { "number": 136, "firstAyahKey": "6:69", "lastAyahKey": "6:73", "juzNumber": 7, "lineCount": 15 },
+  { "number": 137, "firstAyahKey": "6:74", "lastAyahKey": "6:81", "juzNumber": 7, "lineCount": 15 },
+  { "number": 138, "firstAyahKey": "6:82", "lastAyahKey": "6:90", "juzNumber": 7, "lineCount": 15 },
+  { "number": 139, "firstAyahKey": "6:91", "lastAyahKey": "6:94", "juzNumber": 7, "lineCount": 15 },
+  {
+    "number": 140,
+    "firstAyahKey": "6:95",
+    "lastAyahKey": "6:101",
+    "juzNumber": 7,
+    "lineCount": 15
+  },
+  {
+    "number": 141,
+    "firstAyahKey": "6:102",
+    "lastAyahKey": "6:110",
+    "juzNumber": 7,
+    "lineCount": 15
+  },
+  {
+    "number": 142,
+    "firstAyahKey": "6:111",
+    "lastAyahKey": "6:118",
+    "juzNumber": 8,
+    "lineCount": 15
+  },
+  {
+    "number": 143,
+    "firstAyahKey": "6:119",
+    "lastAyahKey": "6:124",
+    "juzNumber": 8,
+    "lineCount": 15
+  },
+  {
+    "number": 144,
+    "firstAyahKey": "6:125",
+    "lastAyahKey": "6:131",
+    "juzNumber": 8,
+    "lineCount": 15
+  },
+  {
+    "number": 145,
+    "firstAyahKey": "6:132",
+    "lastAyahKey": "6:137",
+    "juzNumber": 8,
+    "lineCount": 15
+  },
+  {
+    "number": 146,
+    "firstAyahKey": "6:138",
+    "lastAyahKey": "6:142",
+    "juzNumber": 8,
+    "lineCount": 15
+  },
+  {
+    "number": 147,
+    "firstAyahKey": "6:143",
+    "lastAyahKey": "6:146",
+    "juzNumber": 8,
+    "lineCount": 15
+  },
+  {
+    "number": 148,
+    "firstAyahKey": "6:147",
+    "lastAyahKey": "6:151",
+    "juzNumber": 8,
+    "lineCount": 15
+  },
+  {
+    "number": 149,
+    "firstAyahKey": "6:152",
+    "lastAyahKey": "6:157",
+    "juzNumber": 8,
+    "lineCount": 15
+  },
+  {
+    "number": 150,
+    "firstAyahKey": "6:158",
+    "lastAyahKey": "6:165",
+    "juzNumber": 8,
+    "lineCount": 15
+  },
+  { "number": 151, "firstAyahKey": "7:1", "lastAyahKey": "7:11", "juzNumber": 8, "lineCount": 15 },
+  { "number": 152, "firstAyahKey": "7:12", "lastAyahKey": "7:22", "juzNumber": 8, "lineCount": 15 },
+  { "number": 153, "firstAyahKey": "7:23", "lastAyahKey": "7:30", "juzNumber": 8, "lineCount": 15 },
+  { "number": 154, "firstAyahKey": "7:31", "lastAyahKey": "7:37", "juzNumber": 8, "lineCount": 15 },
+  { "number": 155, "firstAyahKey": "7:38", "lastAyahKey": "7:43", "juzNumber": 8, "lineCount": 15 },
+  { "number": 156, "firstAyahKey": "7:44", "lastAyahKey": "7:51", "juzNumber": 8, "lineCount": 15 },
+  { "number": 157, "firstAyahKey": "7:52", "lastAyahKey": "7:57", "juzNumber": 8, "lineCount": 15 },
+  { "number": 158, "firstAyahKey": "7:58", "lastAyahKey": "7:67", "juzNumber": 8, "lineCount": 15 },
+  { "number": 159, "firstAyahKey": "7:68", "lastAyahKey": "7:73", "juzNumber": 8, "lineCount": 15 },
+  { "number": 160, "firstAyahKey": "7:74", "lastAyahKey": "7:81", "juzNumber": 8, "lineCount": 15 },
+  { "number": 161, "firstAyahKey": "7:82", "lastAyahKey": "7:87", "juzNumber": 8, "lineCount": 15 },
+  { "number": 162, "firstAyahKey": "7:88", "lastAyahKey": "7:95", "juzNumber": 9, "lineCount": 15 },
+  {
+    "number": 163,
+    "firstAyahKey": "7:96",
+    "lastAyahKey": "7:104",
+    "juzNumber": 9,
+    "lineCount": 15
+  },
+  {
+    "number": 164,
+    "firstAyahKey": "7:105",
+    "lastAyahKey": "7:120",
+    "juzNumber": 9,
+    "lineCount": 15
+  },
+  {
+    "number": 165,
+    "firstAyahKey": "7:121",
+    "lastAyahKey": "7:130",
+    "juzNumber": 9,
+    "lineCount": 15
+  },
+  {
+    "number": 166,
+    "firstAyahKey": "7:131",
+    "lastAyahKey": "7:137",
+    "juzNumber": 9,
+    "lineCount": 15
+  },
+  {
+    "number": 167,
+    "firstAyahKey": "7:138",
+    "lastAyahKey": "7:143",
+    "juzNumber": 9,
+    "lineCount": 15
+  },
+  {
+    "number": 168,
+    "firstAyahKey": "7:144",
+    "lastAyahKey": "7:149",
+    "juzNumber": 9,
+    "lineCount": 15
+  },
+  {
+    "number": 169,
+    "firstAyahKey": "7:150",
+    "lastAyahKey": "7:155",
+    "juzNumber": 9,
+    "lineCount": 15
+  },
+  {
+    "number": 170,
+    "firstAyahKey": "7:156",
+    "lastAyahKey": "7:159",
+    "juzNumber": 9,
+    "lineCount": 15
+  },
+  {
+    "number": 171,
+    "firstAyahKey": "7:160",
+    "lastAyahKey": "7:163",
+    "juzNumber": 9,
+    "lineCount": 15
+  },
+  {
+    "number": 172,
+    "firstAyahKey": "7:164",
+    "lastAyahKey": "7:170",
+    "juzNumber": 9,
+    "lineCount": 15
+  },
+  {
+    "number": 173,
+    "firstAyahKey": "7:171",
+    "lastAyahKey": "7:178",
+    "juzNumber": 9,
+    "lineCount": 15
+  },
+  {
+    "number": 174,
+    "firstAyahKey": "7:179",
+    "lastAyahKey": "7:187",
+    "juzNumber": 9,
+    "lineCount": 15
+  },
+  {
+    "number": 175,
+    "firstAyahKey": "7:188",
+    "lastAyahKey": "7:195",
+    "juzNumber": 9,
+    "lineCount": 15
+  },
+  {
+    "number": 176,
+    "firstAyahKey": "7:196",
+    "lastAyahKey": "7:206",
+    "juzNumber": 9,
+    "lineCount": 15
+  },
+  { "number": 177, "firstAyahKey": "8:1", "lastAyahKey": "8:8", "juzNumber": 9, "lineCount": 15 },
+  { "number": 178, "firstAyahKey": "8:9", "lastAyahKey": "8:16", "juzNumber": 9, "lineCount": 15 },
+  { "number": 179, "firstAyahKey": "8:17", "lastAyahKey": "8:25", "juzNumber": 9, "lineCount": 15 },
+  { "number": 180, "firstAyahKey": "8:26", "lastAyahKey": "8:33", "juzNumber": 9, "lineCount": 15 },
+  { "number": 181, "firstAyahKey": "8:34", "lastAyahKey": "8:40", "juzNumber": 9, "lineCount": 15 },
+  {
+    "number": 182,
+    "firstAyahKey": "8:41",
+    "lastAyahKey": "8:45",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 183,
+    "firstAyahKey": "8:46",
+    "lastAyahKey": "8:52",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 184,
+    "firstAyahKey": "8:53",
+    "lastAyahKey": "8:61",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 185,
+    "firstAyahKey": "8:62",
+    "lastAyahKey": "8:69",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 186,
+    "firstAyahKey": "8:70",
+    "lastAyahKey": "8:75",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  { "number": 187, "firstAyahKey": "9:1", "lastAyahKey": "9:6", "juzNumber": 10, "lineCount": 15 },
+  { "number": 188, "firstAyahKey": "9:7", "lastAyahKey": "9:13", "juzNumber": 10, "lineCount": 15 },
+  {
+    "number": 189,
+    "firstAyahKey": "9:14",
+    "lastAyahKey": "9:20",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 190,
+    "firstAyahKey": "9:21",
+    "lastAyahKey": "9:26",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 191,
+    "firstAyahKey": "9:27",
+    "lastAyahKey": "9:31",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 192,
+    "firstAyahKey": "9:32",
+    "lastAyahKey": "9:36",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 193,
+    "firstAyahKey": "9:37",
+    "lastAyahKey": "9:40",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 194,
+    "firstAyahKey": "9:41",
+    "lastAyahKey": "9:47",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 195,
+    "firstAyahKey": "9:48",
+    "lastAyahKey": "9:54",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 196,
+    "firstAyahKey": "9:55",
+    "lastAyahKey": "9:61",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 197,
+    "firstAyahKey": "9:62",
+    "lastAyahKey": "9:68",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 198,
+    "firstAyahKey": "9:69",
+    "lastAyahKey": "9:72",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 199,
+    "firstAyahKey": "9:73",
+    "lastAyahKey": "9:79",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 200,
+    "firstAyahKey": "9:80",
+    "lastAyahKey": "9:86",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 201,
+    "firstAyahKey": "9:87",
+    "lastAyahKey": "9:93",
+    "juzNumber": 10,
+    "lineCount": 15
+  },
+  {
+    "number": 202,
+    "firstAyahKey": "9:94",
+    "lastAyahKey": "9:99",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 203,
+    "firstAyahKey": "9:100",
+    "lastAyahKey": "9:106",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 204,
+    "firstAyahKey": "9:107",
+    "lastAyahKey": "9:111",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 205,
+    "firstAyahKey": "9:112",
+    "lastAyahKey": "9:117",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 206,
+    "firstAyahKey": "9:118",
+    "lastAyahKey": "9:122",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 207,
+    "firstAyahKey": "9:123",
+    "lastAyahKey": "9:129",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 208,
+    "firstAyahKey": "10:1",
+    "lastAyahKey": "10:6",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 209,
+    "firstAyahKey": "10:7",
+    "lastAyahKey": "10:14",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 210,
+    "firstAyahKey": "10:15",
+    "lastAyahKey": "10:20",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 211,
+    "firstAyahKey": "10:21",
+    "lastAyahKey": "10:25",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 212,
+    "firstAyahKey": "10:26",
+    "lastAyahKey": "10:33",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 213,
+    "firstAyahKey": "10:34",
+    "lastAyahKey": "10:42",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 214,
+    "firstAyahKey": "10:43",
+    "lastAyahKey": "10:53",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 215,
+    "firstAyahKey": "10:54",
+    "lastAyahKey": "10:61",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 216,
+    "firstAyahKey": "10:62",
+    "lastAyahKey": "10:70",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 217,
+    "firstAyahKey": "10:71",
+    "lastAyahKey": "10:78",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 218,
+    "firstAyahKey": "10:79",
+    "lastAyahKey": "10:88",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 219,
+    "firstAyahKey": "10:89",
+    "lastAyahKey": "10:97",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 220,
+    "firstAyahKey": "10:98",
+    "lastAyahKey": "10:106",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 221,
+    "firstAyahKey": "10:107",
+    "lastAyahKey": "11:5",
+    "juzNumber": 11,
+    "lineCount": 15
+  },
+  {
+    "number": 222,
+    "firstAyahKey": "11:6",
+    "lastAyahKey": "11:12",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 223,
+    "firstAyahKey": "11:13",
+    "lastAyahKey": "11:19",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 224,
+    "firstAyahKey": "11:20",
+    "lastAyahKey": "11:28",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 225,
+    "firstAyahKey": "11:29",
+    "lastAyahKey": "11:37",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 226,
+    "firstAyahKey": "11:38",
+    "lastAyahKey": "11:45",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 227,
+    "firstAyahKey": "11:46",
+    "lastAyahKey": "11:53",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 228,
+    "firstAyahKey": "11:54",
+    "lastAyahKey": "11:62",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 229,
+    "firstAyahKey": "11:63",
+    "lastAyahKey": "11:71",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 230,
+    "firstAyahKey": "11:72",
+    "lastAyahKey": "11:81",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 231,
+    "firstAyahKey": "11:82",
+    "lastAyahKey": "11:88",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 232,
+    "firstAyahKey": "11:89",
+    "lastAyahKey": "11:97",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 233,
+    "firstAyahKey": "11:98",
+    "lastAyahKey": "11:108",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 234,
+    "firstAyahKey": "11:109",
+    "lastAyahKey": "11:117",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 235,
+    "firstAyahKey": "11:118",
+    "lastAyahKey": "12:4",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 236,
+    "firstAyahKey": "12:5",
+    "lastAyahKey": "12:14",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 237,
+    "firstAyahKey": "12:15",
+    "lastAyahKey": "12:22",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 238,
+    "firstAyahKey": "12:23",
+    "lastAyahKey": "12:30",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 239,
+    "firstAyahKey": "12:31",
+    "lastAyahKey": "12:37",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 240,
+    "firstAyahKey": "12:38",
+    "lastAyahKey": "12:43",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 241,
+    "firstAyahKey": "12:44",
+    "lastAyahKey": "12:52",
+    "juzNumber": 12,
+    "lineCount": 15
+  },
+  {
+    "number": 242,
+    "firstAyahKey": "12:53",
+    "lastAyahKey": "12:63",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 243,
+    "firstAyahKey": "12:64",
+    "lastAyahKey": "12:69",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 244,
+    "firstAyahKey": "12:70",
+    "lastAyahKey": "12:78",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 245,
+    "firstAyahKey": "12:79",
+    "lastAyahKey": "12:86",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 246,
+    "firstAyahKey": "12:87",
+    "lastAyahKey": "12:95",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 247,
+    "firstAyahKey": "12:96",
+    "lastAyahKey": "12:103",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 248,
+    "firstAyahKey": "12:104",
+    "lastAyahKey": "12:111",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 249,
+    "firstAyahKey": "13:1",
+    "lastAyahKey": "13:5",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 250,
+    "firstAyahKey": "13:6",
+    "lastAyahKey": "13:13",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 251,
+    "firstAyahKey": "13:14",
+    "lastAyahKey": "13:18",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 252,
+    "firstAyahKey": "13:19",
+    "lastAyahKey": "13:28",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 253,
+    "firstAyahKey": "13:29",
+    "lastAyahKey": "13:34",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 254,
+    "firstAyahKey": "13:35",
+    "lastAyahKey": "13:42",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 255,
+    "firstAyahKey": "13:43",
+    "lastAyahKey": "14:5",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 256,
+    "firstAyahKey": "14:6",
+    "lastAyahKey": "14:10",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 257,
+    "firstAyahKey": "14:11",
+    "lastAyahKey": "14:18",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 258,
+    "firstAyahKey": "14:19",
+    "lastAyahKey": "14:24",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 259,
+    "firstAyahKey": "14:25",
+    "lastAyahKey": "14:33",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 260,
+    "firstAyahKey": "14:34",
+    "lastAyahKey": "14:42",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 261,
+    "firstAyahKey": "14:43",
+    "lastAyahKey": "14:52",
+    "juzNumber": 13,
+    "lineCount": 15
+  },
+  {
+    "number": 262,
+    "firstAyahKey": "15:1",
+    "lastAyahKey": "15:15",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 263,
+    "firstAyahKey": "15:16",
+    "lastAyahKey": "15:31",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 264,
+    "firstAyahKey": "15:32",
+    "lastAyahKey": "15:51",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 265,
+    "firstAyahKey": "15:52",
+    "lastAyahKey": "15:70",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 266,
+    "firstAyahKey": "15:71",
+    "lastAyahKey": "15:90",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 267,
+    "firstAyahKey": "15:91",
+    "lastAyahKey": "16:6",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 268,
+    "firstAyahKey": "16:7",
+    "lastAyahKey": "16:14",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 269,
+    "firstAyahKey": "16:15",
+    "lastAyahKey": "16:26",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 270,
+    "firstAyahKey": "16:27",
+    "lastAyahKey": "16:34",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 271,
+    "firstAyahKey": "16:35",
+    "lastAyahKey": "16:42",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 272,
+    "firstAyahKey": "16:43",
+    "lastAyahKey": "16:54",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 273,
+    "firstAyahKey": "16:55",
+    "lastAyahKey": "16:64",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 274,
+    "firstAyahKey": "16:65",
+    "lastAyahKey": "16:72",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 275,
+    "firstAyahKey": "16:73",
+    "lastAyahKey": "16:79",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 276,
+    "firstAyahKey": "16:80",
+    "lastAyahKey": "16:87",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 277,
+    "firstAyahKey": "16:88",
+    "lastAyahKey": "16:93",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 278,
+    "firstAyahKey": "16:94",
+    "lastAyahKey": "16:102",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 279,
+    "firstAyahKey": "16:103",
+    "lastAyahKey": "16:110",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 280,
+    "firstAyahKey": "16:111",
+    "lastAyahKey": "16:118",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 281,
+    "firstAyahKey": "16:119",
+    "lastAyahKey": "16:128",
+    "juzNumber": 14,
+    "lineCount": 15
+  },
+  {
+    "number": 282,
+    "firstAyahKey": "17:1",
+    "lastAyahKey": "17:7",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 283,
+    "firstAyahKey": "17:8",
+    "lastAyahKey": "17:17",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 284,
+    "firstAyahKey": "17:18",
+    "lastAyahKey": "17:27",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 285,
+    "firstAyahKey": "17:28",
+    "lastAyahKey": "17:38",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 286,
+    "firstAyahKey": "17:39",
+    "lastAyahKey": "17:49",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 287,
+    "firstAyahKey": "17:50",
+    "lastAyahKey": "17:58",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 288,
+    "firstAyahKey": "17:59",
+    "lastAyahKey": "17:66",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 289,
+    "firstAyahKey": "17:67",
+    "lastAyahKey": "17:75",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 290,
+    "firstAyahKey": "17:76",
+    "lastAyahKey": "17:86",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 291,
+    "firstAyahKey": "17:87",
+    "lastAyahKey": "17:96",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 292,
+    "firstAyahKey": "17:97",
+    "lastAyahKey": "17:104",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 293,
+    "firstAyahKey": "17:105",
+    "lastAyahKey": "18:4",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 294,
+    "firstAyahKey": "18:5",
+    "lastAyahKey": "18:15",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 295,
+    "firstAyahKey": "18:16",
+    "lastAyahKey": "18:20",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 296,
+    "firstAyahKey": "18:21",
+    "lastAyahKey": "18:27",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 297,
+    "firstAyahKey": "18:28",
+    "lastAyahKey": "18:34",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 298,
+    "firstAyahKey": "18:35",
+    "lastAyahKey": "18:45",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 299,
+    "firstAyahKey": "18:46",
+    "lastAyahKey": "18:53",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 300,
+    "firstAyahKey": "18:54",
+    "lastAyahKey": "18:61",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 301,
+    "firstAyahKey": "18:62",
+    "lastAyahKey": "18:74",
+    "juzNumber": 15,
+    "lineCount": 15
+  },
+  {
+    "number": 302,
+    "firstAyahKey": "18:75",
+    "lastAyahKey": "18:83",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 303,
+    "firstAyahKey": "18:84",
+    "lastAyahKey": "18:97",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 304,
+    "firstAyahKey": "18:98",
+    "lastAyahKey": "18:110",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 305,
+    "firstAyahKey": "19:1",
+    "lastAyahKey": "19:11",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 306,
+    "firstAyahKey": "19:12",
+    "lastAyahKey": "19:25",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 307,
+    "firstAyahKey": "19:26",
+    "lastAyahKey": "19:38",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 308,
+    "firstAyahKey": "19:39",
+    "lastAyahKey": "19:51",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 309,
+    "firstAyahKey": "19:52",
+    "lastAyahKey": "19:64",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 310,
+    "firstAyahKey": "19:65",
+    "lastAyahKey": "19:76",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 311,
+    "firstAyahKey": "19:77",
+    "lastAyahKey": "19:95",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 312,
+    "firstAyahKey": "19:96",
+    "lastAyahKey": "20:12",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 313,
+    "firstAyahKey": "20:13",
+    "lastAyahKey": "20:37",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 314,
+    "firstAyahKey": "20:38",
+    "lastAyahKey": "20:51",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 315,
+    "firstAyahKey": "20:52",
+    "lastAyahKey": "20:64",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 316,
+    "firstAyahKey": "20:65",
+    "lastAyahKey": "20:76",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 317,
+    "firstAyahKey": "20:77",
+    "lastAyahKey": "20:87",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 318,
+    "firstAyahKey": "20:88",
+    "lastAyahKey": "20:98",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 319,
+    "firstAyahKey": "20:99",
+    "lastAyahKey": "20:113",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 320,
+    "firstAyahKey": "20:114",
+    "lastAyahKey": "20:125",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 321,
+    "firstAyahKey": "20:126",
+    "lastAyahKey": "20:135",
+    "juzNumber": 16,
+    "lineCount": 15
+  },
+  {
+    "number": 322,
+    "firstAyahKey": "21:1",
+    "lastAyahKey": "21:10",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 323,
+    "firstAyahKey": "21:11",
+    "lastAyahKey": "21:24",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 324,
+    "firstAyahKey": "21:25",
+    "lastAyahKey": "21:35",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 325,
+    "firstAyahKey": "21:36",
+    "lastAyahKey": "21:44",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 326,
+    "firstAyahKey": "21:45",
+    "lastAyahKey": "21:57",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 327,
+    "firstAyahKey": "21:58",
+    "lastAyahKey": "21:72",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 328,
+    "firstAyahKey": "21:73",
+    "lastAyahKey": "21:81",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 329,
+    "firstAyahKey": "21:82",
+    "lastAyahKey": "21:90",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 330,
+    "firstAyahKey": "21:91",
+    "lastAyahKey": "21:101",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 331,
+    "firstAyahKey": "21:102",
+    "lastAyahKey": "21:112",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 332,
+    "firstAyahKey": "22:1",
+    "lastAyahKey": "22:5",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 333,
+    "firstAyahKey": "22:6",
+    "lastAyahKey": "22:15",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 334,
+    "firstAyahKey": "22:16",
+    "lastAyahKey": "22:23",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 335,
+    "firstAyahKey": "22:24",
+    "lastAyahKey": "22:30",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 336,
+    "firstAyahKey": "22:31",
+    "lastAyahKey": "22:38",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 337,
+    "firstAyahKey": "22:39",
+    "lastAyahKey": "22:46",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 338,
+    "firstAyahKey": "22:47",
+    "lastAyahKey": "22:55",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 339,
+    "firstAyahKey": "22:56",
+    "lastAyahKey": "22:64",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 340,
+    "firstAyahKey": "22:65",
+    "lastAyahKey": "22:72",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 341,
+    "firstAyahKey": "22:73",
+    "lastAyahKey": "22:78",
+    "juzNumber": 17,
+    "lineCount": 15
+  },
+  {
+    "number": 342,
+    "firstAyahKey": "23:1",
+    "lastAyahKey": "23:17",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 343,
+    "firstAyahKey": "23:18",
+    "lastAyahKey": "23:27",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 344,
+    "firstAyahKey": "23:28",
+    "lastAyahKey": "23:42",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 345,
+    "firstAyahKey": "23:43",
+    "lastAyahKey": "23:59",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 346,
+    "firstAyahKey": "23:60",
+    "lastAyahKey": "23:74",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 347,
+    "firstAyahKey": "23:75",
+    "lastAyahKey": "23:89",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 348,
+    "firstAyahKey": "23:90",
+    "lastAyahKey": "23:104",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 349,
+    "firstAyahKey": "23:105",
+    "lastAyahKey": "23:118",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 350,
+    "firstAyahKey": "24:1",
+    "lastAyahKey": "24:10",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 351,
+    "firstAyahKey": "24:11",
+    "lastAyahKey": "24:20",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 352,
+    "firstAyahKey": "24:21",
+    "lastAyahKey": "24:27",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 353,
+    "firstAyahKey": "24:28",
+    "lastAyahKey": "24:31",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 354,
+    "firstAyahKey": "24:32",
+    "lastAyahKey": "24:36",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 355,
+    "firstAyahKey": "24:37",
+    "lastAyahKey": "24:43",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 356,
+    "firstAyahKey": "24:44",
+    "lastAyahKey": "24:53",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 357,
+    "firstAyahKey": "24:54",
+    "lastAyahKey": "24:58",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 358,
+    "firstAyahKey": "24:59",
+    "lastAyahKey": "24:61",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 359,
+    "firstAyahKey": "24:62",
+    "lastAyahKey": "25:2",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 360,
+    "firstAyahKey": "25:3",
+    "lastAyahKey": "25:11",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 361,
+    "firstAyahKey": "25:12",
+    "lastAyahKey": "25:20",
+    "juzNumber": 18,
+    "lineCount": 15
+  },
+  {
+    "number": 362,
+    "firstAyahKey": "25:21",
+    "lastAyahKey": "25:32",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 363,
+    "firstAyahKey": "25:33",
+    "lastAyahKey": "25:43",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 364,
+    "firstAyahKey": "25:44",
+    "lastAyahKey": "25:55",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 365,
+    "firstAyahKey": "25:56",
+    "lastAyahKey": "25:67",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 366,
+    "firstAyahKey": "25:68",
+    "lastAyahKey": "25:77",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 367,
+    "firstAyahKey": "26:1",
+    "lastAyahKey": "26:19",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 368,
+    "firstAyahKey": "26:20",
+    "lastAyahKey": "26:39",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 369,
+    "firstAyahKey": "26:40",
+    "lastAyahKey": "26:60",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 370,
+    "firstAyahKey": "26:61",
+    "lastAyahKey": "26:83",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 371,
+    "firstAyahKey": "26:84",
+    "lastAyahKey": "26:111",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 372,
+    "firstAyahKey": "26:112",
+    "lastAyahKey": "26:136",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 373,
+    "firstAyahKey": "26:137",
+    "lastAyahKey": "26:159",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 374,
+    "firstAyahKey": "26:160",
+    "lastAyahKey": "26:183",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 375,
+    "firstAyahKey": "26:184",
+    "lastAyahKey": "26:206",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 376,
+    "firstAyahKey": "26:207",
+    "lastAyahKey": "26:227",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 377,
+    "firstAyahKey": "27:1",
+    "lastAyahKey": "27:13",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 378,
+    "firstAyahKey": "27:14",
+    "lastAyahKey": "27:22",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 379,
+    "firstAyahKey": "27:23",
+    "lastAyahKey": "27:35",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 380,
+    "firstAyahKey": "27:36",
+    "lastAyahKey": "27:44",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 381,
+    "firstAyahKey": "27:45",
+    "lastAyahKey": "27:55",
+    "juzNumber": 19,
+    "lineCount": 15
+  },
+  {
+    "number": 382,
+    "firstAyahKey": "27:56",
+    "lastAyahKey": "27:63",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 383,
+    "firstAyahKey": "27:64",
+    "lastAyahKey": "27:76",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 384,
+    "firstAyahKey": "27:77",
+    "lastAyahKey": "27:88",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 385,
+    "firstAyahKey": "27:89",
+    "lastAyahKey": "28:5",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 386,
+    "firstAyahKey": "28:6",
+    "lastAyahKey": "28:13",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 387,
+    "firstAyahKey": "28:14",
+    "lastAyahKey": "28:21",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 388,
+    "firstAyahKey": "28:22",
+    "lastAyahKey": "28:28",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 389,
+    "firstAyahKey": "28:29",
+    "lastAyahKey": "28:35",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 390,
+    "firstAyahKey": "28:36",
+    "lastAyahKey": "28:43",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 391,
+    "firstAyahKey": "28:44",
+    "lastAyahKey": "28:50",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 392,
+    "firstAyahKey": "28:51",
+    "lastAyahKey": "28:59",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 393,
+    "firstAyahKey": "28:60",
+    "lastAyahKey": "28:70",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 394,
+    "firstAyahKey": "28:71",
+    "lastAyahKey": "28:77",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 395,
+    "firstAyahKey": "28:78",
+    "lastAyahKey": "28:84",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 396,
+    "firstAyahKey": "28:85",
+    "lastAyahKey": "29:6",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 397,
+    "firstAyahKey": "29:7",
+    "lastAyahKey": "29:14",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 398,
+    "firstAyahKey": "29:15",
+    "lastAyahKey": "29:23",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 399,
+    "firstAyahKey": "29:24",
+    "lastAyahKey": "29:30",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 400,
+    "firstAyahKey": "29:31",
+    "lastAyahKey": "29:38",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 401,
+    "firstAyahKey": "29:39",
+    "lastAyahKey": "29:45",
+    "juzNumber": 20,
+    "lineCount": 15
+  },
+  {
+    "number": 402,
+    "firstAyahKey": "29:46",
+    "lastAyahKey": "29:52",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 403,
+    "firstAyahKey": "29:53",
+    "lastAyahKey": "29:63",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 404,
+    "firstAyahKey": "29:64",
+    "lastAyahKey": "30:5",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 405,
+    "firstAyahKey": "30:6",
+    "lastAyahKey": "30:15",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 406,
+    "firstAyahKey": "30:16",
+    "lastAyahKey": "30:24",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 407,
+    "firstAyahKey": "30:25",
+    "lastAyahKey": "30:32",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 408,
+    "firstAyahKey": "30:33",
+    "lastAyahKey": "30:41",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 409,
+    "firstAyahKey": "30:42",
+    "lastAyahKey": "30:50",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 410,
+    "firstAyahKey": "30:51",
+    "lastAyahKey": "30:60",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 411,
+    "firstAyahKey": "31:1",
+    "lastAyahKey": "31:11",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 412,
+    "firstAyahKey": "31:12",
+    "lastAyahKey": "31:19",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 413,
+    "firstAyahKey": "31:20",
+    "lastAyahKey": "31:28",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 414,
+    "firstAyahKey": "31:29",
+    "lastAyahKey": "31:34",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 415,
+    "firstAyahKey": "32:1",
+    "lastAyahKey": "32:11",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 416,
+    "firstAyahKey": "32:12",
+    "lastAyahKey": "32:20",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 417,
+    "firstAyahKey": "32:21",
+    "lastAyahKey": "32:30",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 418,
+    "firstAyahKey": "33:1",
+    "lastAyahKey": "33:6",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 419,
+    "firstAyahKey": "33:7",
+    "lastAyahKey": "33:15",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 420,
+    "firstAyahKey": "33:16",
+    "lastAyahKey": "33:22",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 421,
+    "firstAyahKey": "33:23",
+    "lastAyahKey": "33:30",
+    "juzNumber": 21,
+    "lineCount": 15
+  },
+  {
+    "number": 422,
+    "firstAyahKey": "33:31",
+    "lastAyahKey": "33:35",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 423,
+    "firstAyahKey": "33:36",
+    "lastAyahKey": "33:43",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 424,
+    "firstAyahKey": "33:44",
+    "lastAyahKey": "33:50",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 425,
+    "firstAyahKey": "33:51",
+    "lastAyahKey": "33:54",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 426,
+    "firstAyahKey": "33:55",
+    "lastAyahKey": "33:62",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 427,
+    "firstAyahKey": "33:63",
+    "lastAyahKey": "33:73",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 428,
+    "firstAyahKey": "34:1",
+    "lastAyahKey": "34:7",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 429,
+    "firstAyahKey": "34:8",
+    "lastAyahKey": "34:14",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 430,
+    "firstAyahKey": "34:15",
+    "lastAyahKey": "34:22",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 431,
+    "firstAyahKey": "34:23",
+    "lastAyahKey": "34:31",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 432,
+    "firstAyahKey": "34:32",
+    "lastAyahKey": "34:39",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 433,
+    "firstAyahKey": "34:40",
+    "lastAyahKey": "34:48",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 434,
+    "firstAyahKey": "34:49",
+    "lastAyahKey": "35:3",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 435,
+    "firstAyahKey": "35:4",
+    "lastAyahKey": "35:11",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 436,
+    "firstAyahKey": "35:12",
+    "lastAyahKey": "35:18",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 437,
+    "firstAyahKey": "35:19",
+    "lastAyahKey": "35:30",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 438,
+    "firstAyahKey": "35:31",
+    "lastAyahKey": "35:38",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 439,
+    "firstAyahKey": "35:39",
+    "lastAyahKey": "35:44",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 440,
+    "firstAyahKey": "35:45",
+    "lastAyahKey": "36:12",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 441,
+    "firstAyahKey": "36:13",
+    "lastAyahKey": "36:27",
+    "juzNumber": 22,
+    "lineCount": 15
+  },
+  {
+    "number": 442,
+    "firstAyahKey": "36:28",
+    "lastAyahKey": "36:40",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 443,
+    "firstAyahKey": "36:41",
+    "lastAyahKey": "36:54",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 444,
+    "firstAyahKey": "36:55",
+    "lastAyahKey": "36:70",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 445,
+    "firstAyahKey": "36:71",
+    "lastAyahKey": "36:83",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 446,
+    "firstAyahKey": "37:1",
+    "lastAyahKey": "37:24",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 447,
+    "firstAyahKey": "37:25",
+    "lastAyahKey": "37:51",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 448,
+    "firstAyahKey": "37:52",
+    "lastAyahKey": "37:76",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 449,
+    "firstAyahKey": "37:77",
+    "lastAyahKey": "37:102",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 450,
+    "firstAyahKey": "37:103",
+    "lastAyahKey": "37:126",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 451,
+    "firstAyahKey": "37:127",
+    "lastAyahKey": "37:153",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 452,
+    "firstAyahKey": "37:154",
+    "lastAyahKey": "37:182",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 453,
+    "firstAyahKey": "38:1",
+    "lastAyahKey": "38:16",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 454,
+    "firstAyahKey": "38:17",
+    "lastAyahKey": "38:26",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 455,
+    "firstAyahKey": "38:27",
+    "lastAyahKey": "38:42",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 456,
+    "firstAyahKey": "38:43",
+    "lastAyahKey": "38:61",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 457,
+    "firstAyahKey": "38:62",
+    "lastAyahKey": "38:83",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 458,
+    "firstAyahKey": "38:84",
+    "lastAyahKey": "39:5",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 459,
+    "firstAyahKey": "39:6",
+    "lastAyahKey": "39:10",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 460,
+    "firstAyahKey": "39:11",
+    "lastAyahKey": "39:21",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 461,
+    "firstAyahKey": "39:22",
+    "lastAyahKey": "39:31",
+    "juzNumber": 23,
+    "lineCount": 15
+  },
+  {
+    "number": 462,
+    "firstAyahKey": "39:32",
+    "lastAyahKey": "39:40",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 463,
+    "firstAyahKey": "39:41",
+    "lastAyahKey": "39:47",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 464,
+    "firstAyahKey": "39:48",
+    "lastAyahKey": "39:56",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 465,
+    "firstAyahKey": "39:57",
+    "lastAyahKey": "39:67",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 466,
+    "firstAyahKey": "39:68",
+    "lastAyahKey": "39:74",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 467,
+    "firstAyahKey": "39:75",
+    "lastAyahKey": "40:7",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 468,
+    "firstAyahKey": "40:8",
+    "lastAyahKey": "40:16",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 469,
+    "firstAyahKey": "40:17",
+    "lastAyahKey": "40:25",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 470,
+    "firstAyahKey": "40:26",
+    "lastAyahKey": "40:33",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 471,
+    "firstAyahKey": "40:34",
+    "lastAyahKey": "40:40",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 472,
+    "firstAyahKey": "40:41",
+    "lastAyahKey": "40:49",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 473,
+    "firstAyahKey": "40:50",
+    "lastAyahKey": "40:58",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 474,
+    "firstAyahKey": "40:59",
+    "lastAyahKey": "40:66",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 475,
+    "firstAyahKey": "40:67",
+    "lastAyahKey": "40:77",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 476,
+    "firstAyahKey": "40:78",
+    "lastAyahKey": "40:85",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 477,
+    "firstAyahKey": "41:1",
+    "lastAyahKey": "41:11",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 478,
+    "firstAyahKey": "41:12",
+    "lastAyahKey": "41:20",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 479,
+    "firstAyahKey": "41:21",
+    "lastAyahKey": "41:29",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 480,
+    "firstAyahKey": "41:30",
+    "lastAyahKey": "41:38",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 481,
+    "firstAyahKey": "41:39",
+    "lastAyahKey": "41:46",
+    "juzNumber": 24,
+    "lineCount": 15
+  },
+  {
+    "number": 482,
+    "firstAyahKey": "41:47",
+    "lastAyahKey": "41:54",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 483,
+    "firstAyahKey": "42:1",
+    "lastAyahKey": "42:10",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 484,
+    "firstAyahKey": "42:11",
+    "lastAyahKey": "42:15",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 485,
+    "firstAyahKey": "42:16",
+    "lastAyahKey": "42:22",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 486,
+    "firstAyahKey": "42:23",
+    "lastAyahKey": "42:31",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 487,
+    "firstAyahKey": "42:32",
+    "lastAyahKey": "42:44",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 488,
+    "firstAyahKey": "42:45",
+    "lastAyahKey": "42:51",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 489,
+    "firstAyahKey": "42:52",
+    "lastAyahKey": "43:10",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 490,
+    "firstAyahKey": "43:11",
+    "lastAyahKey": "43:22",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 491,
+    "firstAyahKey": "43:23",
+    "lastAyahKey": "43:33",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 492,
+    "firstAyahKey": "43:34",
+    "lastAyahKey": "43:47",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 493,
+    "firstAyahKey": "43:48",
+    "lastAyahKey": "43:60",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 494,
+    "firstAyahKey": "43:61",
+    "lastAyahKey": "43:73",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 495,
+    "firstAyahKey": "43:74",
+    "lastAyahKey": "43:89",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 496,
+    "firstAyahKey": "44:1",
+    "lastAyahKey": "44:18",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 497,
+    "firstAyahKey": "44:19",
+    "lastAyahKey": "44:39",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 498,
+    "firstAyahKey": "44:40",
+    "lastAyahKey": "44:59",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 499,
+    "firstAyahKey": "45:1",
+    "lastAyahKey": "45:13",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 500,
+    "firstAyahKey": "45:14",
+    "lastAyahKey": "45:22",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 501,
+    "firstAyahKey": "45:23",
+    "lastAyahKey": "45:32",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 502,
+    "firstAyahKey": "45:33",
+    "lastAyahKey": "46:5",
+    "juzNumber": 25,
+    "lineCount": 15
+  },
+  {
+    "number": 503,
+    "firstAyahKey": "46:6",
+    "lastAyahKey": "46:14",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 504,
+    "firstAyahKey": "46:15",
+    "lastAyahKey": "46:20",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 505,
+    "firstAyahKey": "46:21",
+    "lastAyahKey": "46:28",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 506,
+    "firstAyahKey": "46:29",
+    "lastAyahKey": "46:35",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 507,
+    "firstAyahKey": "47:1",
+    "lastAyahKey": "47:11",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 508,
+    "firstAyahKey": "47:12",
+    "lastAyahKey": "47:19",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 509,
+    "firstAyahKey": "47:20",
+    "lastAyahKey": "47:29",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 510,
+    "firstAyahKey": "47:30",
+    "lastAyahKey": "47:38",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 511,
+    "firstAyahKey": "48:1",
+    "lastAyahKey": "48:9",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 512,
+    "firstAyahKey": "48:10",
+    "lastAyahKey": "48:15",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 513,
+    "firstAyahKey": "48:16",
+    "lastAyahKey": "48:23",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 514,
+    "firstAyahKey": "48:24",
+    "lastAyahKey": "48:28",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 515,
+    "firstAyahKey": "48:29",
+    "lastAyahKey": "49:4",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 516,
+    "firstAyahKey": "49:5",
+    "lastAyahKey": "49:11",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 517,
+    "firstAyahKey": "49:12",
+    "lastAyahKey": "49:18",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 518,
+    "firstAyahKey": "50:1",
+    "lastAyahKey": "50:15",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 519,
+    "firstAyahKey": "50:16",
+    "lastAyahKey": "50:35",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 520,
+    "firstAyahKey": "50:36",
+    "lastAyahKey": "51:6",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 521,
+    "firstAyahKey": "51:7",
+    "lastAyahKey": "51:30",
+    "juzNumber": 26,
+    "lineCount": 15
+  },
+  {
+    "number": 522,
+    "firstAyahKey": "51:31",
+    "lastAyahKey": "51:51",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 523,
+    "firstAyahKey": "51:52",
+    "lastAyahKey": "52:14",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 524,
+    "firstAyahKey": "52:15",
+    "lastAyahKey": "52:31",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 525,
+    "firstAyahKey": "52:32",
+    "lastAyahKey": "52:49",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 526,
+    "firstAyahKey": "53:1",
+    "lastAyahKey": "53:26",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 527,
+    "firstAyahKey": "53:27",
+    "lastAyahKey": "53:44",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 528,
+    "firstAyahKey": "53:45",
+    "lastAyahKey": "54:6",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 529,
+    "firstAyahKey": "54:7",
+    "lastAyahKey": "54:27",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 530,
+    "firstAyahKey": "54:28",
+    "lastAyahKey": "54:49",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 531,
+    "firstAyahKey": "54:50",
+    "lastAyahKey": "55:16",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 532,
+    "firstAyahKey": "55:17",
+    "lastAyahKey": "55:40",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 533,
+    "firstAyahKey": "55:41",
+    "lastAyahKey": "55:67",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 534,
+    "firstAyahKey": "55:68",
+    "lastAyahKey": "56:16",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 535,
+    "firstAyahKey": "56:17",
+    "lastAyahKey": "56:50",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 536,
+    "firstAyahKey": "56:51",
+    "lastAyahKey": "56:76",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 537,
+    "firstAyahKey": "56:77",
+    "lastAyahKey": "57:3",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 538,
+    "firstAyahKey": "57:4",
+    "lastAyahKey": "57:11",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 539,
+    "firstAyahKey": "57:12",
+    "lastAyahKey": "57:18",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 540,
+    "firstAyahKey": "57:19",
+    "lastAyahKey": "57:24",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 541,
+    "firstAyahKey": "57:25",
+    "lastAyahKey": "57:29",
+    "juzNumber": 27,
+    "lineCount": 15
+  },
+  {
+    "number": 542,
+    "firstAyahKey": "58:1",
+    "lastAyahKey": "58:6",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 543,
+    "firstAyahKey": "58:7",
+    "lastAyahKey": "58:11",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 544,
+    "firstAyahKey": "58:12",
+    "lastAyahKey": "58:21",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 545,
+    "firstAyahKey": "58:22",
+    "lastAyahKey": "59:3",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 546,
+    "firstAyahKey": "59:4",
+    "lastAyahKey": "59:9",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 547,
+    "firstAyahKey": "59:10",
+    "lastAyahKey": "59:16",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 548,
+    "firstAyahKey": "59:17",
+    "lastAyahKey": "59:24",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 549,
+    "firstAyahKey": "60:1",
+    "lastAyahKey": "60:5",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 550,
+    "firstAyahKey": "60:6",
+    "lastAyahKey": "60:11",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 551,
+    "firstAyahKey": "60:12",
+    "lastAyahKey": "61:5",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 552,
+    "firstAyahKey": "61:6",
+    "lastAyahKey": "61:14",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 553,
+    "firstAyahKey": "62:1",
+    "lastAyahKey": "62:8",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 554,
+    "firstAyahKey": "62:9",
+    "lastAyahKey": "63:4",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 555,
+    "firstAyahKey": "63:5",
+    "lastAyahKey": "63:11",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 556,
+    "firstAyahKey": "64:1",
+    "lastAyahKey": "64:9",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 557,
+    "firstAyahKey": "64:10",
+    "lastAyahKey": "64:18",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 558,
+    "firstAyahKey": "65:1",
+    "lastAyahKey": "65:5",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 559,
+    "firstAyahKey": "65:6",
+    "lastAyahKey": "65:12",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 560,
+    "firstAyahKey": "66:1",
+    "lastAyahKey": "66:7",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 561,
+    "firstAyahKey": "66:8",
+    "lastAyahKey": "66:12",
+    "juzNumber": 28,
+    "lineCount": 15
+  },
+  {
+    "number": 562,
+    "firstAyahKey": "67:1",
+    "lastAyahKey": "67:12",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 563,
+    "firstAyahKey": "67:13",
+    "lastAyahKey": "67:26",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 564,
+    "firstAyahKey": "67:27",
+    "lastAyahKey": "68:15",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 565,
+    "firstAyahKey": "68:16",
+    "lastAyahKey": "68:42",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 566,
+    "firstAyahKey": "68:43",
+    "lastAyahKey": "69:8",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 567,
+    "firstAyahKey": "69:9",
+    "lastAyahKey": "69:34",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 568,
+    "firstAyahKey": "69:35",
+    "lastAyahKey": "70:10",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 569,
+    "firstAyahKey": "70:11",
+    "lastAyahKey": "70:39",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 570,
+    "firstAyahKey": "70:40",
+    "lastAyahKey": "71:10",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 571,
+    "firstAyahKey": "71:11",
+    "lastAyahKey": "71:28",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 572,
+    "firstAyahKey": "72:1",
+    "lastAyahKey": "72:13",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 573,
+    "firstAyahKey": "72:14",
+    "lastAyahKey": "72:28",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 574,
+    "firstAyahKey": "73:1",
+    "lastAyahKey": "73:19",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 575,
+    "firstAyahKey": "73:20",
+    "lastAyahKey": "74:17",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 576,
+    "firstAyahKey": "74:18",
+    "lastAyahKey": "74:47",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 577,
+    "firstAyahKey": "74:48",
+    "lastAyahKey": "75:19",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 578,
+    "firstAyahKey": "75:20",
+    "lastAyahKey": "76:5",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 579,
+    "firstAyahKey": "76:6",
+    "lastAyahKey": "76:25",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 580,
+    "firstAyahKey": "76:26",
+    "lastAyahKey": "77:19",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 581,
+    "firstAyahKey": "77:20",
+    "lastAyahKey": "77:50",
+    "juzNumber": 29,
+    "lineCount": 15
+  },
+  {
+    "number": 582,
+    "firstAyahKey": "78:1",
+    "lastAyahKey": "78:30",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 583,
+    "firstAyahKey": "78:31",
+    "lastAyahKey": "79:15",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 584,
+    "firstAyahKey": "79:16",
+    "lastAyahKey": "79:46",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 585,
+    "firstAyahKey": "80:1",
+    "lastAyahKey": "80:42",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 586,
+    "firstAyahKey": "81:1",
+    "lastAyahKey": "81:29",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 587,
+    "firstAyahKey": "82:1",
+    "lastAyahKey": "83:6",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 588,
+    "firstAyahKey": "83:7",
+    "lastAyahKey": "83:34",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 589,
+    "firstAyahKey": "83:35",
+    "lastAyahKey": "84:25",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 590,
+    "firstAyahKey": "85:1",
+    "lastAyahKey": "85:22",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 591,
+    "firstAyahKey": "86:1",
+    "lastAyahKey": "87:15",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 592,
+    "firstAyahKey": "87:16",
+    "lastAyahKey": "88:26",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 593,
+    "firstAyahKey": "89:1",
+    "lastAyahKey": "89:23",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 594,
+    "firstAyahKey": "89:24",
+    "lastAyahKey": "90:20",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 595,
+    "firstAyahKey": "91:1",
+    "lastAyahKey": "92:14",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 596,
+    "firstAyahKey": "92:15",
+    "lastAyahKey": "94:8",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 597,
+    "firstAyahKey": "95:1",
+    "lastAyahKey": "96:19",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 598,
+    "firstAyahKey": "97:1",
+    "lastAyahKey": "98:7",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 599,
+    "firstAyahKey": "98:8",
+    "lastAyahKey": "100:9",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 600,
+    "firstAyahKey": "100:10",
+    "lastAyahKey": "102:8",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 601,
+    "firstAyahKey": "103:1",
+    "lastAyahKey": "105:5",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 602,
+    "firstAyahKey": "106:1",
+    "lastAyahKey": "108:3",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 603,
+    "firstAyahKey": "109:1",
+    "lastAyahKey": "111:5",
+    "juzNumber": 30,
+    "lineCount": 15
+  },
+  {
+    "number": 604,
+    "firstAyahKey": "112:1",
+    "lastAyahKey": "114:6",
+    "juzNumber": 30,
+    "lineCount": 15
+  }
+]
